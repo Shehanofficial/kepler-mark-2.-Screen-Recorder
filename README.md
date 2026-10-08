@@ -30,4 +30,4 @@ Version 1.0.0 was built and tested on Linux. It has not yet been tested on Windo
 
 The installer includes FFmpeg, licensed under GPL-3.0. The full source code for this build is attached to each release as `kepler-mark-2-source-1.0.0.zip`, and third-party notices are in `LICENSES/THIRD_PARTY_NOTICES.md` inside it.
 
-© 2026 Spark Digital Hub
+© 2026 Kepler Technologies
