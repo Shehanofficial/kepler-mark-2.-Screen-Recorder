@@ -1,4 +1,4 @@
-<p align="left"><img src="assets/kepler-mark-2-logo-primary-v1.png" alt="Kepler Mark 2 Screen Recorder" width="300"></p>
+<p align="left"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/kepler-mark-2-logo-dark-bg.png"><img src="assets/kepler-mark-2-logo-primary-v1.png" alt="Kepler Mark 2 Screen Recorder" width="300"></picture></p>
 
 Record your screen, keep microphone and system audio on separate tracks, and turn recordings into clear tutorials.
 
